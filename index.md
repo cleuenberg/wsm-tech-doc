@@ -10,11 +10,14 @@ Dies ist eine technische sowie gestalterische Dokumentation der neuen WSM Corpor
 
 ### Kontakt
 
-**Projektleitung**
-Damian Himmel: [damian.himmel@wsm.eu](mailto:damian.himmel@wsm.eu)
+**Projektleitung:**  
+Damian Himmel  
+✉️ [damian.himmel@wsm.eu](mailto:damian.himmel@wsm.eu)
 
-**Legt das neue Logo endlich ab**
-Florian Linke: [florian.linke@wsm.eu](mailto:florian.linke@wsm.eu)
+**Legt das neue Logo endlich ab:**  
+Florian Linke  
+✉️ [florian.linke@wsm.eu](mailto:florian.linke@wsm.eu)
 
-**Entwicklung**
-Christian Leuenberg: [christian@l-net.biz](mailto:christian@l-net.biz)
+**Entwicklung:**  
+Christian Leuenberg  
+✉️ [christian@l-net.biz](mailto:christian@l-net.biz)
